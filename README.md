@@ -1,3 +1,6 @@
+Integrantes: Esteban Leiva 202021368 e.leivam@uniandes.edu.co y Michelle Vargas 201914771 bm.vargas@uniandes.edu.co
+
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
